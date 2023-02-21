@@ -1,4 +1,6 @@
-# -북극 해빙 변화 원인 분석 및 예측을 위한 모델 개발
+# 아프지마북극곰
+### 윈터스쿨 메타버스 기반 AI 부트 캠프
+##### 북극 해빙 변화 원인 분석 및 예측을 위한 모델 개발
 ![image](https://user-images.githubusercontent.com/105578577/219038608-ffde738e-9d7f-4ae9-95fc-d9f6c037fc81.png)
 
 
