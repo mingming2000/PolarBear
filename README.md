@@ -16,6 +16,9 @@ https://dacon.io/competitions/official/235706/overview/description
 
 # KNeighborsRegressor로 예측한 2020년 빙하 면적
 ![슬라이드18](https://user-images.githubusercontent.com/102716945/221350087-c0349f4e-094d-4f85-b606-3b61c791149e.JPG)
+Dacon Private 1위 12개월 평균 score: 3.883117
+아프지마 북극곰팀 여름 score: 4.116650
+아프지마 북극곰팀 겨울 score:3.161932
 
 # convLSTM
 ![슬라이드24](https://user-images.githubusercontent.com/102716945/221350140-b2d09026-88c6-4e70-8c35-9bee5e3d5904.JPG)
